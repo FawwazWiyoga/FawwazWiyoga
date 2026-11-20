@@ -20,12 +20,6 @@ No public language data yet — building the first project in the open.
 
 Public projects are being indexed.
 
-## Progress so far
-
-- **Current streak:** 12 days
-- **Longest streak:** 12 days
-- **Active days:** 17 days
-
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=fawwazwiyoga&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F347420270%3Fu%3D11e7480c4057ebdcfa388ed9450b137a4f742824%26v%3D4" alt="fawwazwiyoga stats visual" />
 </p>
