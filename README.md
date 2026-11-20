@@ -4,7 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=fawwazwiyoga&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F347420270%3Fu%3D11e7480c4057ebdcfa388ed9450b137a4f742824%26v%3D4" alt="fawwazwiyoga hero visual" />
 </p>
 
-**fawwazwiyoga** · Product-minded developer
+**fawwazwiyoga** Artifical Intelegence Engginer
 
 ## Currently learning
 
