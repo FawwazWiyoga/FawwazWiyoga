@@ -12,8 +12,6 @@
 
 **Learning next**
 
-👥 **0** followers · **0** following
-
 ## Tools I’m practicing
 
 No public language data yet — building the first project in the open.
